@@ -8,7 +8,7 @@ Action Destinations were [launched in December 2021](https://segment.com/blog/in
 
 This repository contains the Action Destination Definitions as well as a CLI to generate the scaffolding for new destinations and run unit tests. If you'd like to contribute, please review the [Contributing Guide](./CONTRIBUTING.md).
 
-To begin, follow the instructions in Get Started below.
+To begin, follow the instructions in Get Started below. test
 
 For more detailed instruction, see the following READMEs:
 
